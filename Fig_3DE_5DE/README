@@ -1,6 +1,18 @@
+All files for runing the FigX.m are included in this folder.
+Before running those codes, we need to install JAGS or Stan if you want.
+I found it is easier to install JAGS than Stan in the Windows System.
+
 JAGS-4.3.1.exe is downloaded from: 
 https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/Windows/  
 
-After installed this .exe file, then we need tell the system its location  
+After installed this .exe file, then we need tell the system its location. 
+I have uploaded a screenshot about how to setup the path in Windows.
+
+All the codes starting with PAL are copied from:
+https://www.palamedestoolbox.org/index.html
+You could also download the entire toolbox and add all files to MATLAB path.
+Here, I copied all related files from original folder.
+
+After generate the figures, I save it as .pdf format and modify them in the Adobe Illustrator
 
 
