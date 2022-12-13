@@ -6,7 +6,7 @@ JAGS-4.3.1.exe is downloaded from:
 https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/Windows/  
 
 After installed this .exe file, then we need tell the system its location. 
-I have uploaded a screenshot about how to setup the path in Windows.
+I have uploaded a screenshot (JAGS Path setting.jpg) about how to setup the path in Windows.
 
 All the codes starting with PAL are copied from:
 https://www.palamedestoolbox.org/index.html
