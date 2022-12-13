@@ -11,8 +11,10 @@ I have uploaded a screenshot (JAGS Path setting.jpg) about how to setup the path
 All the codes starting with PAL are copied from:
 https://www.palamedestoolbox.org/index.html
 You could also download the entire toolbox and add all files to MATLAB path.
-Here, I copied all related files from original folder.
+Here, I copied all related files from authors' original folder.
+ 
+95% Confidence intervals of threshold are available at:
+pfhb_reparam.summStats.a.hdi95
+Note confidence intervals are differet each time you run the codes.
 
-After generate the figures, I save it as .pdf format and modify them in the Adobe Illustrator
-
-
+After generate the figures, I save it as .pdf format and modify them in the Adobe Illustrator.
