@@ -1,1 +1,8 @@
+All files for runing the FigX.m are included in this folder.
 
+All the codes not start with Fig are copied from:
+https://github.com/wichmann-lab/psignifit/wiki
+You could also download the entire toolbox and add all files to MATLAB path.
+Here, I copied all related files from original folder.
+
+The generated figures are almost similar to the one appear in the paper.
